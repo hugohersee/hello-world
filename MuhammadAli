@@ -1,0 +1,40 @@
+body {
+  margin-top: 20px;
+}
+
+.timeline h2 {
+  text-align:center;
+}
+
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class "col-xs-12">
+        <h1 class="text-primary" align=center>Muhammad Ali</h1>
+        <p align=center><em>'What you are thinking about, you are becoming'</em></p>
+        <div class="thumbnail">
+          <img src="https://americaniconstemeple.files.wordpress.com/2014/03/ali.jpg">
+          <div class="caption text-center">Ali won 56 of his 61 fights, 37 by KO
+          </div>
+        </div>
+
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+              <div class="timeline">
+              <h2>Ali Timeline</h2>
+              <p>You can find out more about Ali's life <a href="https://en.wikipedia.org/wiki/Muhammad_Ali" target="_blank">here</a>.</p>
+              <ul>
+                <li><b>January 17th, 1942</b> Born Cassius Marcellus Clay, Jr. in Louisville, Kentucky, U.S.</li>
+                <li><b>1960</b> Ali wins Light Heavyweight Gold at the Summer Olympic Games in Rome</li>
+                <li><b>1964</b> Ali becomes Heavyweight Champion of the World after defeating Sonny Liston in stunning upset</li>
+              </ul>
+                
+          <blockquote>
+            <p>"In boxing, I had a lot of fear. Fear was good. But, for the first time, in the bout with Muhammad Ali, I didn't have any fear. I thought, 'This is easy. This is what I've been waiting for'. No fear at all. No nervousness. And I lost."</p>
+            <footer><cite>Former World Heavyweight Champion, George Foreman</cite></footer>
+          </blockquote>
+        </div>
+
+        <footer class="text-center">
+          <hr>
+          <p>Written and coded by Hugo Hersee 2016</p>
+        </footer>
